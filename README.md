@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+status
+# Status
 
-Based on "ABC" at https://www.abc.com/
+Based on "Deploy a SvelteKit App" at https://docs.render.com/deploy-sveltekit
+
+Based on "Kener is a Modern Self hosted Status Page, batteries included" at https://github.com/rajnandan1/kener
 
 ## 100 - Introduction
 
